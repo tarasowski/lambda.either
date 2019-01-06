@@ -37,4 +37,4 @@ const Either = {
     try: tryCatch,
 }
 
-module.exports = Either
+module.exports = { Either } 
