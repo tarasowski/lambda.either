@@ -13,7 +13,7 @@ const Either = {
 }
 
 module.exports = Either
-``´
+```
 
 * Examples:
 
